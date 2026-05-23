@@ -1,0 +1,56 @@
+{
+  "Black gram": {
+    "seed_type": "Black gram",
+    "average_yield_days": 62.9,
+    "average_yield_weight_g": 17.6,
+    "growing_rate_g_per_day": 0.28,
+    "plasma_power_watts": 124.09,
+    "treatment_time_seconds": 22.9,
+    "expected_germination_rate": 86.1
+  },
+  "Cotton": {
+    "seed_type": "Cotton",
+    "average_yield_days": 63.3,
+    "average_yield_weight_g": 17.3,
+    "growing_rate_g_per_day": 0.27,
+    "plasma_power_watts": 132.76,
+    "treatment_time_seconds": 23.2,
+    "expected_germination_rate": 86.3
+  },
+  "Cowpea": {
+    "seed_type": "Cowpea",
+    "average_yield_days": 62.4,
+    "average_yield_weight_g": 17.8,
+    "growing_rate_g_per_day": 0.29,
+    "plasma_power_watts": 129.07,
+    "treatment_time_seconds": 23.5,
+    "expected_germination_rate": 86.6
+  },
+  "Fenugreek": {
+    "seed_type": "Fenugreek",
+    "average_yield_days": 62.9,
+    "average_yield_weight_g": 18.4,
+    "growing_rate_g_per_day": 0.29,
+    "plasma_power_watts": 137.4,
+    "treatment_time_seconds": 23.3,
+    "expected_germination_rate": 86.4
+  },
+  "Green gram": {
+    "seed_type": "Green gram",
+    "average_yield_days": 62.4,
+    "average_yield_weight_g": 18.3,
+    "growing_rate_g_per_day": 0.29,
+    "plasma_power_watts": 127.48,
+    "treatment_time_seconds": 21.7,
+    "expected_germination_rate": 86.9
+  },
+  "Mustard": {
+    "seed_type": "Mustard",
+    "average_yield_days": 64.4,
+    "average_yield_weight_g": 17.5,
+    "growing_rate_g_per_day": 0.27,
+    "plasma_power_watts": 131.85,
+    "treatment_time_seconds": 23.2,
+    "expected_germination_rate": 86.3
+  }
+}
