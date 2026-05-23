@@ -3,5 +3,5 @@ services:
     name: ionseed
     env: static
     root: web-app
-    buildCommand: npm install && npm run build
+    buildCommand: npm ci && npm run build
     publishPath: dist
